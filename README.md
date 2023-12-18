@@ -10,6 +10,3 @@ I’m a full-stack web developer with hands-on experience creating solutions tha
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AkashBahetra&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkashBahetra&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
